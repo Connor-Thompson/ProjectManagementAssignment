@@ -18,7 +18,7 @@ Following your investigation into IoT technologies your manager has asked you to
 <ul>
   <li> The Project Management Documentation </li>
   <li> The Software Project Documentation </li>
-  <li> Thw folders and files that were created and used for the project, the main system program is called "Assignment" </li>
+  <li> The folders and files that were created and used for the project, the main system program is called "Assignment" </li>
 </ul>
 
  
